@@ -1,6 +1,6 @@
-# QaraTMS - Open Source Test Management System
+# NOQA - Open Source Test Management System
 
-**QaraTMS** is an open source test management software for managing test suites, test cases, test plans, test runs and
+**NOQA** is an open source test management software for managing test suites, test cases, test plans, test runs and
 documentation.
 
 ## Languages and Tools:
@@ -23,7 +23,7 @@ documentation.
 - Run `php artisan migrate`
 - Run `php artisan db:seed --class=AdminSeeder` to create admin user and assign permissions.
 - Run `php artisan serve`
-- You can now access QaraTMS at **http://localhost**
+- You can now access NOQA at **http://localhost**
 - Login with default email and password - **admin@admin.com** / **password**
 - Go to **Users** page and change default email and password.
 
@@ -120,4 +120,4 @@ php artisan test --coverage
 
 ## License
 
-QaraTMS is licensed under the [MIT](https://choosealicense.com/licenses/mit/) license.
+NOQA is licensed under the [MIT](https://choosealicense.com/licenses/mit/) license.
