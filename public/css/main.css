@@ -188,7 +188,7 @@ Scrollbar
 
 #suites_tree_col {
     height: calc(100vh - var(--header_height));
-    background:  #f4f6f9;
+    background: #f4f6f9;
     overflow: hidden;
 }
 
@@ -231,13 +231,13 @@ Scrollbar
     --test_case_controls_opacity: 1;
 }
 
-.test_case_info {
-    min-width: 140px;
-}
-
 .test_case_controls {
     opacity: var(--test_case_controls_opacity);
     transition: 0.3s;
+}
+
+.test_case_info {
+    min-width: 140px;
 }
 
 /****************************************************
