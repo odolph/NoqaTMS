@@ -3,7 +3,7 @@
         <a class="navbar-brand logo" href="/">
             <img src="{{asset('img/logo.png')}}" alt="" width="35px">
         </a>
-        <a class="navbar-brand link-light" href="/">QaraTMS</a>
+        <a class="navbar-brand link-light" href="/">NOQA</a>
         <div class="collapse navbar-collapse">
             {{-- DO NOT DISABE UL because form will be at start --}}
             <div class="navbar-nav nav-pills me-auto mb-2 mb-lg-0">
